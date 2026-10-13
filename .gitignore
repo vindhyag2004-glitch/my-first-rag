@@ -1,0 +1,11 @@
+﻿# Virtual Environment
+venv/
+__pycache__/
+
+# Credentials & Secrets
+.env
+.streamlit/secrets.toml
+
+# OS Files
+.DS_Store
+Thumbs.db
